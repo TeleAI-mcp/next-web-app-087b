@@ -1,1 +1,3 @@
-# next-web-app-087b
+# Next Web App 087B
+
+A web application for modern development workflows.
